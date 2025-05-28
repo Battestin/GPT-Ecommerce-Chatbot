@@ -1,0 +1,44 @@
+## EcoMart Policies
+
+1. **Return Policy:**    
+   - EcoMart offers a 30-day return policy for all unused products in perfect condition.
+   - Return shipping costs are the responsibility of the customer, unless the product arrived defective or damaged.
+   - Refunds will be processed after inspection of the returned product and may be issued as store credit or a refund to the original payment method, according to the customer's preference.
+
+2. **Privacy Policy:** 
+   - We respect your privacy and are committed to protecting your personal information.
+   - Information collected during the purchase process, such as name, address, and payment information, is used only for order processing and communication with customers.
+   - We do not share your information with third parties without your consent.
+
+3. **Security:** 
+   - We use data encryption technology (SSL) to ensure that all payment information is transmitted securely.
+   - We maintain strict security measures to protect the customer database and prevent unauthorized access.
+
+4. **Sustainability:** 
+   - EcoMart is committed to sustainability in all operations.
+   - We use recyclable packaging and, whenever possible, ship products using low carbon footprint methods.
+   - We strive to minimize waste and reduce our environmental impact.
+
+5. **Customer Service:** 
+   - Our customer service team is available via live chat and email (ecomart@alura.com.br) to assist with questions, concerns, and shopping assistance.
+   - We are committed to providing fast and effective service to ensure customer satisfaction.
+
+6. **Delivery and Shipping Time:** 
+   - We inform estimated delivery times at the time of purchase.
+   - We work with reliable carriers to ensure safe and timely delivery.
+   - If there are unexpected delivery delays, we immediately inform customers and seek alternative solutions whenever possible.
+
+7. **Social Responsibility:** 
+   - EcoMart contributes a percentage of sales to environmental conservation organizations and social causes.
+   - We support local and global initiatives that promote environmental protection and social justice.
+
+8. **Reviews and Comments:** 
+   - We encourage customers to leave reviews and comments about products to help other buyers make informed decisions.
+
+9. **Discounts and Promotions:**
+   - Products in the "Healthy Food" category have a 10% discount with the coupon CUPOM_ECO, valid until 11/25/2023
+   - Products in the "Healthy Food" category have a 15% discount with the coupon CUPOM_ECO10, valid until 10/25/2023
+   - Products in the "Outdoor Leisure" category have a 10% discount with the coupon CUPOM_LAZ, valid until 12/25/2023
+   - Products in the "Sustainable Fashion" category have a 10% discount with the coupon CUPOM_MOD, valid until 10/25/2023
+
+EcoMart strives to be a complete platform offering sustainable products in all categories and supporting a conscious lifestyle. We are committed to providing high-quality products that benefit both consumers and the planet.
